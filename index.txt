@@ -1,8 +1,9 @@
 
 
 
-his is my first file - Index1
+This is my first file - Index1
 second time editing the file.
+Edited from github.
 
 
 
